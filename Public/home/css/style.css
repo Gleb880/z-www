@@ -71,10 +71,17 @@ a:hover{transition: 0.3s;-o-transition: 0.3s;-ms-transition: 0.3s;-moz-transitio
     font-weight: bold;
 }
 
+.calculator-title {
+    padding-bottom: 20px;
+    text-align: center;
+    text-shadow: 10px 0px 30px;
+}
+
 .main-calculator {
     background: url("https://img.medicalexpo.com/images_me/photo-g/126369-14525155.jpg") no-repeat center top;
     background-size: cover;
     height: 100vh;
+    padding-top: 30px;
 }
 
 /* Calculator */
