@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640px,user-scalable=no" />
+
+    <title>Lasermach™ Pro_Wingderm Electro-Optics Ltd.</title>
+    <meta name="keywords" content="Wingderm Electro-Optics Ltd.">
+<meta name="description" content="Wingderm Electro-Optics Ltd.">
+ <link href="/favicon.ico" rel="shortcut icon" />
+<script src="/Public/home/js/jquery.min.js"></script>
+<script src="/Public/home/js/swiper.min.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="/Public/home/css/swiper.min.css">
+<link href="/Public/home/css/style.css" rel="stylesheet" type="text/css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126687633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126687633-1');
+</script>
+
+<script src="/Public/home/js/nav.js" type="text/javascript" defer="defer"></script>
+<script type="text/javascript">
+$(function(){
+    $(".nav_pro").click(function(){
+        $.scrollTo('#pro',500);
+    });
+});
+</script>
+
+    <style>
+        .footer{margin-top:0px;}
+         #cnav{ z-index:99999;} 
+    </style><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+<link href="/Public/yun/css/animate.min.css" rel="stylesheet" type="text/css">
+    <link href="/Public/yun/css/index.css" rel="stylesheet" type="text/css">
+    <link href="/Public/css/en.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="header">
+    <div class="container" style="position:relative;">
+      <div class="logos"><a href="/Home/Index/index.html"><img src="/Public/home/images/logo.png"/></a></div>  
+      <ul class="nav" id="navlist">
+         <li><a href="/Home/Index/index.html">Home</a></li>
+         <li class="ch01"><a href="/Home/Index/chan">Product</a></li><li class="ch01"><a href="javascript:void(0)">WingCloud</a></li><li class="ch01"><a href="/Home/Index/about">About Wingderm</a></li>      </ul>
+
+      <div class="cnen"><a href="http://www.wingderm.com.cn/">中文</a> | <a href="http://www.wingderm.com/">English</a></div>
+      <div class="herig">
+         <div class="tel"><a href="mailto:(8610) 62910812">E-mail：info@wingderm.com</a></div>
+      </div> 
+     <a href="http://www.wingderm.com.cn/" class="yyqh">中文</a>
+
+      <button class="nav-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+      </button>
+
+    </div>
+ </div>
+ 
+ 
+<div id="navbox">
+    <div class="children" style="display:none;"></div>
+    <div class="children container" style="display:none;">
+           <div class="chleft">
+           <ul class="xnav">
+             <h3><b>Product</b></h3>
+                                       <li id="c1" onmouseover="setContentTab('c',1,100)"><a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></li>             <li id="c2" onmouseover="setContentTab('c',2,100)"><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a></li>             <li id="c3" onmouseover="setContentTab('c',3,100)"><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></li>             <span><a href="/Home/Index/chan.html">See More</a></span>
+           </ul>
+    
+           <ul class="xnav">
+             <h3><b>Treatment Regimen</b></h3>
+                          <li id="c4" onmouseover="setContentTab('c',4,100)"><a href="/Home/Index/chan.html?fid=32">Hair Removal</a></li>             <li id="c5" onmouseover="setContentTab('c',5,100)"><a href="/Home/Index/chan.html?fid=33">Body Contouring</a></li>             <li id="c6" onmouseover="setContentTab('c',6,100)"><a href="/Home/Index/chan.html?fid=34">Moisturizing Tightening</a></li>             <li id="c7" onmouseover="setContentTab('c',7,100)"><a href="/Home/Index/chan.html?fid=35">Cellulite</a></li>             <li id="c8" onmouseover="setContentTab('c',8,100)"><a href="/Home/Index/chan.html?fid=36">Skin Renewal</a></li>             <span><a href="/Home/Index/fangan.html">See More</a></span>   
+           </ul>
+           </div>
+           
+           <div class="chright">
+                                                   <div class="chimg" id="con_c_1" style="display:block;"><img src="/Uploads/20181210/5c0e0aff72f44.png" ></div>                    <div class="chimg" id="con_c_2" ><img src="/Uploads/20170911/59b63cb0b14e3.jpg" ></div>                    <div class="chimg" id="con_c_3" ><img src="/Uploads/20170929/59cdaae62d887.jpg" ></div>               
+                                <div class="chimg" id="con_c_4" ><img src="/Uploads/20170714/5968774031c92.jpg" ></div>                <div class="chimg" id="con_c_5" ><img src="/Uploads/20170714/59686c3487c9d.jpg" ></div>                <div class="chimg" id="con_c_6" ><img src="/Uploads/20170714/59686c60a7691.jpg" ></div>                <div class="chimg" id="con_c_7" ><img src="/Uploads/20170714/59686caee683e.jpg" ></div>                <div class="chimg" id="con_c_8" ><img src="/Uploads/20170714/59686cfb47ab5.jpg" ></div>           </div>
+    
+    </div>
+
+</div>
+
+
+<!--手机导航-->
+<ul class="wapnav" style="display:none;">
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>Product</b></a>
+<ul class="dropdown">
+      <li><a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></li><li><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a></li><li><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></li>           <li><a href="/Home/Index/chan.html?id=7">See More</a></li>
+</ul>
+</li>
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>Treatment Regimen</b></a>
+<ul class="dropdown">
+    <li><a href="/Home/Index/chan.html?fid=32">Hair Removal</a></li><li><a href="/Home/Index/chan.html?fid=41">Laser Hair</a></li><li><a href="/Home/Index/chan.html?fid=42">Acne</a></li><li><a href="/Home/Index/chan.html?fid=43">Relieve Pain</a></li><li><a href="/Home/Index/chan.html?fid=33">Body Contouring</a></li>        <li><a href="/Home/Index/fangan.html?id=7">See More</a></li>
+</ul>
+</li>
+
+<li class="item-has-child "><a href="javascript:void()" class="drop-arrow">WingCloud</a></li>
+
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>About Wingderm</b></a>
+<ul class="dropdown">
+     <li><a href="/Home/Index/news?id=179">News</a></li><li><a href="/Home/Index/news?id=182">Exhibition</a></li><li><a href="/Home/Index/lianxi?id=181">Contact Us</a></li></ul>
+
+</li>
+
+
+</ul>
+<!--手机导航-->
+<!-- <div class="cpban" style="background:url(/Uploads/20180914/5b9b721d5bc80.jpg) no-repeat center center;-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; "><img src="/Uploads/20180914/5b9b721d5bc80.jpg"></div>  -->
+
+<!--part2-->
+<div class="part2 pr">
+    <img src="/Public/yun/images/datu2.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu2_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <div class="zitest animated op" data-animation="fadeInUp">
+            <img src="/Public/yun/images/part2_io.png" alt=""/>
+            <br/>
+            <span>Painless Hair Removal<br/>Outstanding Comfort</span>
+        </div>
+        <p class="zitest animated delay3" data-animation="fadeInUp">Intelligent laser hair removal platform</p>
+    </div>
+</div>
+
+
+
+<div class="nav-height">
+<div class="navbar-container navbar-container-m-sticky js-sticky">
+  <div class="navbar navbar-m-gray">
+
+    <div class="cpnav" id="pro">
+      <div class="container">
+          <h1><a style="color:#333333" href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></h1>
+          <ul>
+             <li><a href="/Home/Index/chan_show.html?id=5#dw01">Parameter</a></li>
+             <!-- <li><a href="/Home/Index/chan_show.html?id=5#dw02">治疗原理</a></li> -->
+             <li><a href="/Home/Index/chan_show.html?id=5#dw02">Principle</a></li>
+             <li><a href="/Home/Index/chan_show.html?id=5#dw03">Before&After</a></li>
+             <li><a href="/Home/Index/chan_show.html?id=5#dw04">Download</a></li>
+             <li><a class="go-top" href="javascript:void(0);">Back To Top</a></li>
+          </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<!-- <div class="part1 pr pc">
+    <img src="/Public/yun/images/datu1.jpg" alt=""/>
+    <div class="descrip">
+        <div class="zitest animated op" data-animation="fadeInUp">
+            <span class="pc">Lasermach Pro</span>
+            <span class="fz22">Diode Laser Hair Removal Machine</span>
+        </div>
+        <p class="zitest animated delay3 pc" data-animation="fadeInUp">Intelligent laser hair removal platform</p>
+    </div>
+</div> -->
+            <!--<img src="/Public/yun/images/part1_io.png" alt=""/>-->
+
+<!--part3-->
+<div class="part3 pr">
+    <img src="/Public/yun/images/datu3.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu3_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">3 wavelengths to choose from <i class="douhao">, </i><br class="mt"/>suitable for all skin tones</span>
+        <div class="zitest animated  op  delay3" data-animation="fadeInUp">
+            <p>808nm/755nm/1064nm are available,<br class="mt"/> suitable for the full spectrum of skin tones and all<br class="mt"/> hair types </p>
+            <!--<p class="mt">更多选择，更好效果<br/><i>808nm/755nm/1064nm 多种波长，<br class="mt"/>适合多种毛发颜色和肤色</i></p>-->
+        </div>
+    </div>
+</div>
+
+<!--part4-->
+<div class="part4">
+    <ul class="clearfix">
+        <li class="zitest animated delay2" data-animation="fadeInUp"><img src="/Public/yun/images/part4_1.png" alt=""/><span class="pt part4b">SHR Mode</span></li>
+        <li class="zitest animated delay4" data-animation="fadeInUp"><img src="/Public/yun/images/part4_2.png" alt=""/><span class="pt part4b">755nm/808nm/1064nm</span></li>
+        <li class="zitest animated delay6" data-animation="fadeInUp"><img src="/Public/yun/images/part4_3.png" alt=""/><span class="part4b">Single power<br/>up to 1000W</span></li>
+        <li class="zitest animated delay8" data-animation="fadeInUp"><img src="/Public/yun/images/part4_4.png" alt=""/><span class="pt part4b">12*20mm big spot</span></li>
+        <li class="zitest animated delay10" data-animation="fadeInUp"><img src="/Public/yun/images/part4_5.png" alt=""/><span class="part4b">Professional and<br/>Aesthetic systems</span></li>
+        <li class="zitest animated delay12" data-animation="fadeInUp"><img src="/Public/yun/images/part4_6.png" alt=""/><span class="part4b">24 item<br/>real-time monitoring tests</span></li>
+        <li class="zitest animated delay14" data-animation="fadeInUp"><img src="/Public/yun/images/part4_7.png" alt=""/><span class="pt part4b">Medical CE</span></li>
+        <li class="zitest animated delay16" data-animation="fadeInUp"><img src="/Public/yun/images/part4_8.png" alt=""/><span class="pt part4b">12.1" touch screen</span></li>
+        <li class="zitest animated delay18" data-animation="fadeInUp"><img src="/Public/yun/images/part4_9.png" alt=""/><span class="part4b">US Lasertel<br/>imported laser bars</span></li>
+        <li class="zitest animated delay20 pc" data-animation="fadeInUp"><img src="/Public/yun/images/part4_10.png" alt=""/><span class="part4b">OLED<br/>display of Applicator</span></li>
+    </ul>
+</div>
+
+<!--part5-->
+<div class="part5 pr">
+    <img src="/Public/yun/images/datu5.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu5_640.jpg" alt="" class="mt"/>
+    <div class="biao mt">
+        <img src="/Public/yun/images/datu5_biao.png" alt=""/>
+    </div>
+    <div class="descrip">
+        <div class="zitest animated op" data-animation="fadeInUp">
+            <img src="/Public/yun/images/part5_io.png" alt=""/>
+            <span>Higher Power<br class="mt"/> Single power up to 1000W</span>
+        </div>
+        <p class="zitest animated delay3" data-animation="fadeInUp">High power and short pulse duration improves both<br class="mt"/>
+            comfort level and efficacy. <br/>A fast, comfortable and effective treatment is guaranteed.</p>
+    </div>
+    <div class="video1 pc">
+        <!--<img src="/Public/yun/images/video1_bg.jpg" alt=""/>-->
+        <video muted  src="/Public/yun/images/video1.mp4"></video>
+    </div>
+</div>
+
+<!--part6-->
+<div class="part6 pr">
+    <img src="/Public/yun/images/datu6.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu6_640.jpg" alt="" class="mt"/>
+    <div class="biao mt">
+        <img src="/Public/yun/images/datu6.png" alt=""/>
+    </div>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Large Spot Size</span>
+        <p class="zitest animated op delay3" data-animation="fadeInUp">The large spot size increases the depth of heat<br class="mt"/>
+            penetration and allows <br/>the hair follicle to absorb more energy, improving<br class="mt"/>
+            treatment effectiveness</p>
+    </div>
+    <div class="video2 pc">
+        <video muted src="/Public/yun/images/video2.mp4"></video>
+    </div>
+</div>
+
+<!--part7-->
+<div class="part7 pr">
+    <img src="/Public/yun/images/datu7.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu7_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <span class="zitest animated op" data-animation="fadeInUp">Compressor cooling<br class="mt"/> system for rapid cooling</span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">The HITACHI industrial grade compressor takes just 4<br class="mt"/> seconds to cool to 4℃.<br/>
+            Temperature is maintained at a stable 4℃ even<br/>
+            during constant high energy shot usage.<br/>
+            This ensures excellent protection for the skin and a more<br/>
+            comfortable experience for the client</p>
+    </div>
+    <div class="part7_rb" id="part7_rb">
+        <img src="/Public/yun/images/part7_biao.png" alt=""/>
+        <div class="part7_xian zitest animated" data-animation="part7_animate">
+            <img src="/Public/yun/images/part7_xian.png" alt="" id="part7_xian"/>
+        </div>
+    </div>
+</div>
+
+<!--part8-->
+<div class="part8 pr">
+    <img src="/Public/yun/images/datu8.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu8_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <span class="zitest animated op" data-animation="fadeInUp">Intelligent temperature<br class="mt"/>  monitoring system </span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">A high precision PT1000 temperature sensor is built into<br class="mt"/>  the<br class="pc"/>
+             applicator adopting a PID algorithm, which controls<br class="mt"/>  the Sapphire<br class="pc"/>
+            crystal temperature and maintains a<br class="mt"/>  constant 4℃, ensuring the<br class="pc"/>
+            skin is well protected</p>
+    </div>
+    <div class="part8_m">
+        <img src="/Public/yun/images/part8_m.png" alt=""/>
+        <div class="part8_m_1  zitest animated delay6" data-animation="part8_animate">
+            <img src="/Public/yun/images/part8_m_1.png" alt=""/>
+        </div>
+        <div class="part8_m_2 zitest animated delay6" data-animation="part8_animate2">
+            <img src="/Public/yun/images/part8_m_2.png" alt=""/>
+        </div>
+    </div>
+</div>
+
+<!--part9-->
+<div class="part9 pr">
+    <img src="/Public/yun/images/datu9.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu9_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <span class="zitest animated op" data-animation="fadeInUp">Aesthetic Mode</span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">Pre-set parameters for<br class="mt"/> safe and easy use, <br/>
+            key operated,<br class="mt"/> minimal training required</p>
+    </div>
+    <div class="descrip descrip2">
+        <span class="zitest animated op" data-animation="fadeInUp">Professional Mode</span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">Intuitive parameters with ability to<br class="mt"/> alter settings<br class="pc"/>
+            in order to achieve<br class="mt"/> desired results.<br/>
+            The ultimate in accuracy and<br class="mt"/> efficiency</p>
+    </div>
+</div>
+
+<!--part10-->
+<div class="part10 pr">
+    <img src="/Public/yun/images/datu10.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu10_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Double filter, Twice the protection</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">Lasermach is fitted with an advanced two-stage<br class="mt"/> water filtration system. The first stage adopts PP<br/>
+            cotton to filter out impurities and prevent laser<br class="mt"/> bloackages, the second stage uses a special resin<br class="mt"/> to<br class="pc"/>
+            filter out metal ions, avoiding inner laser<br class="mt"/> corrosion and prolonging system life</p>
+    </div>
+</div>
+
+<!--part11-->
+<div class="part11 pr">
+    <img src="/Public/yun/images/datu11.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu11_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">OLED display of Applicator</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">The unique OLED display built into the Applicator<br class="mt"/> shows treatment settings and progress.<br/>
+            This enables the operator to focus on treatment, <br class="mt"/>which improves speed and safety of operation</p>
+    </div>
+    <div class="part11_r1 zitest animated op delay2" data-animation="fadeInUp">
+        <img src="/Public/yun/images/part11_r1.png" alt=""/>
+        <span>Professional Mode</span>
+    </div>
+    <div class="part11_r2 zitest animated op delay4" data-animation="fadeInUp">
+        <img src="/Public/yun/images/part11_r2.png" alt=""/>
+        <span>Aesthetic Mode</span>
+    </div>
+</div>
+
+<!--part12-->
+<div class="part12 pr">
+    <img src="/Public/yun/images/datu12.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu12_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Large HD screen for<br class="mt"/> perfect interaction</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">The large 12.1" touch screen monitor uses a high<br class="mt"/> resolution 16:9 aspect ratio and holds a
+            <br class="pc"/>
+            Samsung<br class="mt"/> 8 bit A53 1.4Ghz processor. <br class="mt"/>The Android based user interface is supremely<br class="mt"/> easy to use</p>
+    </div>
+</div>
+
+<!--part13-->
+<div class="part13 pr">
+    <img src="/Public/yun/images/datu13.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu13_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Automatic 24 point initiation check</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">When the machine is turned on, an automated 24<br class="mt"/> point system safety check is launched.<br/>
+            This ensures it is in perfect working order and<br class="mt"/> highlights any problems to the user in advance</p>
+    </div>
+    <div class="part13_m pc">
+        <img src="/Public/yun/images/part13_m.png" alt=""/>
+    </div>
+</div>
+
+
+<!--part14-->
+<div class="part14 pr">
+    <img src="/Public/yun/images/datu14.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu14_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Applicator situation monitor</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">Our intelligent system senses when the applicator is<br class="mt"/> placed back in its holder and laser use is disabled in this<br class="mt"/> position,<br class="pc"/>
+            making it impossible for accidental shots to be<br class="mt"/> fired. The cooling system also automatically shuts off.<br/>
+            These special features ensure that Lasermach is both<br class="mt"/> safe and environmentally friendly.</p>
+    </div>
+    <div class="part14_r1 zitest animated op delay4" data-animation="fadeInUp">
+        <img src="/Public/yun/images/part14_r1.png" alt=""/>
+        <span>Internal safety monitoring</span>
+    </div>
+    <div class="part14_r2 zitest animated op delay4" data-animation="fadeInUp">
+        <img src="/Public/yun/images/part14_r2.png" alt=""/>
+        <span>Secure and energy-saving</span>
+    </div>
+    <div class="video3 pc">
+        <video muted  src="/Public/yun/images/video3.mp4"></video>
+    </div>
+</div>
+
+<!--part15-->
+<div class="part15 pr">
+    <img src="/Public/yun/images/datu15.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu15_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <span class="zitest animated op" data-animation="fadeInUp">Professional pulse constant current <br/>
+laser power supply</span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">Maximum current :100A,<br class="mt"/>Maximum power : 2000W.<br class="mt"/> The high power capacity<br class="pc"/>
+            provides sufficient energy<br class="mt"/> for optimum results.<br class="pc"/>
+            The multistage steady flow<br class="mt"/> system and high precision anti-shock function<br/>
+            minimises impact on the laser, prolonging its life.</p>
+    </div>
+</div>
+
+<!--part16-->
+<div class="part16 pr">
+    <img src="/Public/yun/images/datu16.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu16_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <span class="zitest animated op" data-animation="fadeInUp">US Lasertel imported laser bars</span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">The extremely high quality US manufactured laser<br class="mt"/> bars allow for 20,000<br class="pc"/>
+            hours of continuous laser usage;<br class="mt"/> 20 million shots are guaranteed.</p>
+    </div>
+    <div class="part16_m zitest animated delay14" data-animation="flash">
+        <img src="/Public/yun/images/part16_m.png" alt="" class="pc"/>
+        <img src="/Public/yun/images/part16_m_640.png" alt="" class="mt"/>
+    </div>
+</div>
+
+<!--part17-->
+<div class="part17 pr">
+    <img src="/Public/yun/images/datu17.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu17_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">E. U. certified</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">Lasermach complies with the latest European Union<br class="mt"/> medical equipment standard. An EU Medical CE<br/>
+            certificate has been issued by Germany TUV:SUD<br class="mt"/> following a number of rigorous tests.</p>
+    </div>
+    <div class="part17_io">
+        <img src="/Public/yun/images/part17_io1.png" alt="" class="pc"/>
+        <img src="/Public/yun/images/part17_io2.png" alt="" class="pc"/>
+        <img src="/Public/yun/images/part17_io1_640.png" alt="" class="mt"/>
+        <img src="/Public/yun/images/part17_io2_640.png" alt="" class="mt"/>
+    </div>
+    <div class="part17_m">
+        <ul>
+            <li>
+                <img src="/Public/yun/images/part17_m1.jpg" alt=""/>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part17_m2.jpg" alt=""/>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part17_m3.jpg" alt=""/>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part17_m4.jpg" alt=""/>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!--part18-->
+<div class="part18 pr">
+    <img src="/Public/yun/images/datu18.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu18_640.jpg" alt="" class="mt"/>
+    <div class="descrip">
+        <span class="zitest animated op" data-animation="fadeInUp">High Quality Design Materials</span>
+        <p class="zitest animated delay3" data-animation="fadeInUp">Lasermach's all-metal framework contained within<br class="mt"/> the ABS<br class="pc"/>
+            plastic outer shell provides a robust and<br class="mt"/> premium quality feel.<br/>
+            The carefully designed water filtration and<br class="mt"/> electricity separation<br class="pc"/>
+            also ensures the highest<br class="mt"/> safety standard.</p>
+    </div>
+</div>
+
+
+<!--part19-->
+<div class="part19 pr">
+    <img src="/Public/yun/images/datu19.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu19_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Unique secure plug socket design</span>
+        <p class="zitest animated delay3 op" data-animation="fadeInUp">with simple rotating switch to lock and unlock<br class="mt"/> the applicator</p>
+    </div>
+</div>
+
+<!--part20-->
+<div class="part20 pr">
+    <img src="/Public/yun/images/datu20.jpg" alt="" class="pc"/>
+    <img src="/Public/yun/images/datu20_640.jpg" alt="" class="mt"/>
+    <div class="title">
+        <span class="zitest animated op" data-animation="fadeInUp">Exquisite craftsmanship <i class="douhao">,</i><br class="mt"/>strict selection</span>
+    </div>
+    <div class="part20_m">
+        <ul>
+            <li>
+                <img src="/Public/yun/images/part20_m1.png" alt=""/>
+                <p>Aluminum alloy handle</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m2.png" alt=""/>
+                <p>45°design of screen</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m3.png" alt=""/>
+                <p>Hollow back design</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m4.png" alt=""/>
+                <p>Applicator Pipe material</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m5.png" alt=""/>
+                <p>Water level observation window</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m6.png" alt=""/>
+                <p>Foot switch design</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m7.png" alt=""/>
+                <p>Foot switch platform</p>
+            </li>
+            <li>
+                <img src="/Public/yun/images/part20_m8.png" alt=""/>
+                <p>Speaker design</p>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- gognying e-->
+
+<div class="footer">
+    <div class="container">
+                   
+            <ul class="dbnav">
+              <li class="db01">
+               <h3>Product</h3>
+               <div class="flei">
+                   <a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a>                     <a href="/Home/Index/chan.html">See More</a>
+               </div>
+              </li>
+            
+              <li class="db02">
+               <h3>Treatment Regimen</h3>
+               <div class="flei">
+                <a href="/Home/Index/chan.html?fid=32">Hair Removal</a><a href="/Home/Index/chan.html?fid=33">Body Contouring</a><a href="/Home/Index/chan.html?fid=34">Moisturizing Tightening</a><a href="/Home/Index/chan.html?fid=35">Cellulite</a><a href="/Home/Index/chan.html?fid=36">Skin Renewal</a><a href="/Home/Index/chan.html?fid=37">Photorejuvenation</a><a href="/Home/Index/chan.html?fid=38">Wrinkles Tightening</a><a href="/Home/Index/chan.html?fid=39">Tattoo/Pigment</a><a href="/Home/Index/chan.html?fid=40">Scar/Striae Distensae</a><a href="/Home/Index/chan.html?fid=41">Laser Hair</a><a href="/Home/Index/chan.html?fid=42">Acne</a><a href="/Home/Index/chan.html?fid=43">Relieve Pain</a>               </div>
+              </li>       
+            
+              <li class="db03">
+               <h3>Exhibition</h3>
+               <div class="flei">
+               <a href="/Home/Index/news.html?id=182">Exhibition</a>
+               </div>
+              </li>
+            
+              <li class="db04">
+               <h3>About Wingderm</h3>
+               <div class="flei">
+               <a href="/Home/Index/news?id=179">News</a><a href="/Home/Index/news?id=182">Exhibition</a><a href="/Home/Index/lianxi?id=181">Contact Us</a>               </div>
+              </li>
+            </ul>    
+            
+            <ul class="dbcontact">
+              <li class="con01">Headquarters：Room 305, Zone D,Dongsheng Science Park, Zhongguancun (Northern Territory), Haidian District, Beijing</li>
+              <li class="con01">R&D center：Room 1609, 1st Building, No. 6, Liye Road, big data intelligent industrial park, Changping District, Beijing</li>
+              <li class="con01">Production base：Room B1-3, Xinfeida Industrial Park, No.1, East Road Street, Fengshan Village, Shahe Town, Changping District, Beijing</li> 
+              <li class="con02">Phone：(8610) 62910812</li> 
+              <li class="con03"><a href="mailto:info@wingderm.com">Email：info@wingderm.com</a></li>
+            </ul>
+            
+            <div class="forig">
+              <div class="wxin"><img src="/Public/home/images/wenx.jpg"></div>
+              <div class="fenx">
+                <a href="https://www.facebook.com/Wingderm-1769429496478208/?modal=admin_todo_tour" target="_blank" title="Facebook"><img src="/Public/home/images/gz01.jpg"></a>
+                <a href="https://twitter.com/Wingderm1" target="_blank" title="Twitter"><img src="/Public/home/images/gz02.jpg"></a>
+                <a href="https://www.youtube.com/channel/UCg_kS_Lj_XXbU7j-Xy_DzaA?view_as=subscriber" title="YouTube" class="jiathis_button_weixin"><img src="/Public/home/images/gz05.jpg"></a>
+                <a href="https://www.linkedin.com/company/aesthetic-wingderm/" title="LinkedIn" target="_blank"><img src="/Public/home/images/gz04.jpg"></a>
+				<script type="text/javascript" >
+                var jiathis_config={
+                    summary:"",
+                    shortUrl:false,
+                    hideMore:false
+                }
+                </script>
+                <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+                
+
+              </div>
+            </div>
+
+    </div>
+</div>
+<!-- <div class="online-service">
+<ul>
+	<li class="go-top" style="cursor:pointer;">
+      <p style="font-size:14px;padding-top:45px;width:100%;text-align:center;color: #ccc;">返回顶部</p>
+  </li>
+</ul>
+</div> -->
+
+<div class="copy">
+ <div class="container">
+    <div class="copyimg">
+    
+    </div>
+    <div class="copytxt">
+Copyright：© Wingderm Electro-Optics Ltd.<br/>
+© 2015-2020 All Rights Reserved.
+<p><a style="color:#bdbdbd" href="http://www.ynhl.net/" target="_blank">Website by Eno interlink</a></p>
+    </div>
+ </div>
+</div>
+<script>
+    var swiper = new Swiper('.banner', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 1,
+        paginationClickable: true,
+        spaceBetween: 0,
+        loop: true,
+        autoplay: 5000,
+        speed:500,
+    });
+
+
+    var swiper = new Swiper('.wapban', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 1,
+        paginationClickable: true,
+        spaceBetween: 0,
+        loop: true,
+        autoplay: 5000,
+        speed:500,
+    });
+
+</script>
+<script src="/Public/home/js/js.js"></script>
+
+<!--<script type="text/javascript" src="/Public/js/jquery.min.js"></script>-->
+<script type="text/javascript" src="/Public/yun/js/other.js"></script>
+<script type="text/javascript" src="/Public/yun/js/isScroll.js"></script>
+<script type="text/javascript">
+
+    function part7(){
+        var p7Width=document.querySelector(".part7_rb").getBoundingClientRect().width;
+        var part7_xian = document.getElementById("part7_xian");
+        part7_xian.style.width = p7Width+"px";
+    }
+    part7();
+
+    function part8(){
+        var p7Width=document.querySelector(".part7_rb").getBoundingClientRect().width;
+        var part7_xian = document.getElementById("part7_xian");
+        part7_xian.style.width = p7Width+"px";
+    };
+    part7();
+
+    $(document).ready(function () {
+        isScroll.init('.zitest');
+        $(window).resize(function () {
+            part7();
+        });
+    });
+
+
+
+
+</script>
+
+<script type="text/javascript">
+var wapkuan=document.body.clientWidth;
+var gaos=$(".nav-height").offset().top;
+
+if(wapkuan<768){
+    setInterval(function(){
+        var rc=$(document).scrollTop();
+        if(rc > gaos){
+            $(".go-top").show();
+        }else{
+            $(".go-top").hide();
+        }
+    },10)
+}else{
+    setInterval(function(){
+        var rc=$(document).scrollTop();
+        if(rc > gaos){
+            $(".go-top").show();
+        }else{
+            $(".go-top").hide();
+        }   
+    },10)
+    }
+</script>
+</body>
+</html>

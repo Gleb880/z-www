@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact Us_Wingderm Electro-Optics Ltd.</title>
+ <meta name="keywords" content="Wingderm Electro-Optics Ltd.">
+<meta name="description" content="Wingderm Electro-Optics Ltd.">
+ <link href="/favicon.ico" rel="shortcut icon" />
+<script src="/Public/home/js/jquery.min.js"></script>
+<script src="/Public/home/js/swiper.min.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="/Public/home/css/swiper.min.css">
+<link href="/Public/home/css/style.css" rel="stylesheet" type="text/css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126687633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126687633-1');
+</script>
+
+
+</head>
+<body>
+  <div class="header">
+    <div class="container" style="position:relative;">
+      <div class="logos"><a href="/Home/Index/index.html"><img src="/Public/home/images/logo.png"/></a></div>  
+      <ul class="nav" id="navlist">
+         <li><a href="/Home/Index/index.html">Home</a></li>
+         <li class="ch01"><a href="/Home/Index/chan">Product</a></li><li class="ch01"><a href="javascript:void(0)">WingCloud</a></li><li class="ch01"><a href="/Home/Index/about">About Wingderm</a></li>      </ul>
+
+      <div class="cnen"><a href="http://www.wingderm.com.cn/">中文</a> | <a href="http://www.wingderm.com/">English</a></div>
+      <div class="herig">
+         <div class="tel"><a href="mailto:(8610) 62910812">E-mail：info@wingderm.com</a></div>
+      </div> 
+     <a href="http://www.wingderm.com.cn/" class="yyqh">中文</a>
+
+      <button class="nav-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+      </button>
+
+    </div>
+ </div>
+ 
+ 
+<div id="navbox">
+    <div class="children" style="display:none;"></div>
+    <div class="children container" style="display:none;">
+           <div class="chleft">
+           <ul class="xnav">
+             <h3><b>Product</b></h3>
+                                       <li id="c1" onmouseover="setContentTab('c',1,100)"><a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></li>             <li id="c2" onmouseover="setContentTab('c',2,100)"><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a></li>             <li id="c3" onmouseover="setContentTab('c',3,100)"><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></li>             <span><a href="/Home/Index/chan.html">See More</a></span>
+           </ul>
+    
+           <ul class="xnav">
+             <h3><b>Treatment Regimen</b></h3>
+                          <li id="c4" onmouseover="setContentTab('c',4,100)"><a href="/Home/Index/chan.html?fid=32">Hair Removal</a></li>             <li id="c5" onmouseover="setContentTab('c',5,100)"><a href="/Home/Index/chan.html?fid=33">Body Contouring</a></li>             <li id="c6" onmouseover="setContentTab('c',6,100)"><a href="/Home/Index/chan.html?fid=34">Moisturizing Tightening</a></li>             <li id="c7" onmouseover="setContentTab('c',7,100)"><a href="/Home/Index/chan.html?fid=35">Cellulite</a></li>             <li id="c8" onmouseover="setContentTab('c',8,100)"><a href="/Home/Index/chan.html?fid=36">Skin Renewal</a></li>             <span><a href="/Home/Index/fangan.html">See More</a></span>   
+           </ul>
+           </div>
+           
+           <div class="chright">
+                                                   <div class="chimg" id="con_c_1" style="display:block;"><img src="/Uploads/20181210/5c0e0aff72f44.png" ></div>                    <div class="chimg" id="con_c_2" ><img src="/Uploads/20170911/59b63cb0b14e3.jpg" ></div>                    <div class="chimg" id="con_c_3" ><img src="/Uploads/20170929/59cdaae62d887.jpg" ></div>               
+                                <div class="chimg" id="con_c_4" ><img src="/Uploads/20170714/5968774031c92.jpg" ></div>                <div class="chimg" id="con_c_5" ><img src="/Uploads/20170714/59686c3487c9d.jpg" ></div>                <div class="chimg" id="con_c_6" ><img src="/Uploads/20170714/59686c60a7691.jpg" ></div>                <div class="chimg" id="con_c_7" ><img src="/Uploads/20170714/59686caee683e.jpg" ></div>                <div class="chimg" id="con_c_8" ><img src="/Uploads/20170714/59686cfb47ab5.jpg" ></div>           </div>
+    
+    </div>
+
+</div>
+
+
+<!--手机导航-->
+<ul class="wapnav" style="display:none;">
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>Product</b></a>
+<ul class="dropdown">
+      <li><a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></li><li><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a></li><li><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></li>           <li><a href="/Home/Index/chan.html?id=7">See More</a></li>
+</ul>
+</li>
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>Treatment Regimen</b></a>
+<ul class="dropdown">
+    <li><a href="/Home/Index/chan.html?fid=32">Hair Removal</a></li><li><a href="/Home/Index/chan.html?fid=41">Laser Hair</a></li><li><a href="/Home/Index/chan.html?fid=42">Acne</a></li><li><a href="/Home/Index/chan.html?fid=43">Relieve Pain</a></li><li><a href="/Home/Index/chan.html?fid=33">Body Contouring</a></li>        <li><a href="/Home/Index/fangan.html?id=7">See More</a></li>
+</ul>
+</li>
+
+<li class="item-has-child "><a href="javascript:void()" class="drop-arrow">WingCloud</a></li>
+
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>About Wingderm</b></a>
+<ul class="dropdown">
+     <li><a href="/Home/Index/news?id=179">News</a></li><li><a href="/Home/Index/news?id=182">Exhibition</a></li><li><a href="/Home/Index/lianxi?id=181">Contact Us</a></li></ul>
+
+</li>
+
+
+</ul>
+<!--手机导航-->
+
+<div class="main container">
+
+  <div class="mainleft">
+    <div class="matle">
+     <i></i>
+     <h3>About Wingderm</h3> 
+    </div>
+    <ul class="nynav">
+       <li ><a href="/Home/Index/news?id=179">News</a></li><li ><a href="/Home/Index/news?id=182">Exhibition</a></li><li  class="dq"><a href="/Home/Index/lianxi?id=181">Contact Us</a></li>    </ul>
+  </div>
+  
+  <div class="mainright">
+    
+    <div class="map" id="dituContent"></div>    
+    <div class="showtxt" style="margin-top:20px;">
+           <span style="color:#191F25;font-family:" font-size:14px;background-color:#ffffff;"=""><span style="color:#191F25;font-family:&quot;font-size:14px;background-color:#FFFFFF;">Company address:</span><br />
+<span style="color:#191F25;font-family:&quot;font-size:14px;background-color:#FFFFFF;">Headquarters: Room 305, Zone D, No.66 of Xixiaokou Road, Dongsheng Science Park, Zhongguancun (Northern Territory), Haidian District, Beijing</span><br />
+<span style="color:#191F25;font-family:&quot;font-size:14px;background-color:#FFFFFF;">R&amp;D center: Room 1609, 1st Building, No. 6, Liye Road, big data intelligent industrial park, Changping District, Beijing</span><br />
+<span style="color:#191F25;font-family:&quot;font-size:14px;background-color:#FFFFFF;">Production base:  Room B1-3, Xinfeida Industrial Park, No.1, East Road Street, Fengshan Village, Shahe Town, Changping District, Beijing</span></span><span style="color:#191F25;font-family:" font-size:14px;background-color:#ffffff;"=""></span><br />    </div> 
+
+  </div>
+
+</div>
+
+
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+<script type="text/javascript">
+    //创建和初始化地图函数：
+    function initMap(){
+        createMap();//创建地图
+        setMapEvent();//设置地图事件
+        addMapControl();//向地图添加控件
+        addMarker();//向地图中添加marker
+    }
+    
+    //创建地图函数：
+    function createMap(){
+        var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
+        var point = new BMap.Point(116.367038,40.044586);//定义一个中心点坐标
+        map.centerAndZoom(point,16);//设定地图的中心点和坐标并将地图显示在地图容器中
+        window.map = map;//将map变量存储在全局
+    }
+    
+    //地图事件设置函数：
+    function setMapEvent(){
+        map.enableDragging();//启用地图拖拽事件，默认启用(可不写)
+        map.enableScrollWheelZoom();//启用地图滚轮放大缩小
+        map.enableDoubleClickZoom();//启用鼠标双击放大，默认启用(可不写)
+        map.enableKeyboard();//启用键盘上下左右键移动地图
+    }
+    
+    //地图控件添加函数：
+    function addMapControl(){
+        //向地图中添加缩放控件
+	var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+	map.addControl(ctrl_nav);
+                //向地图中添加比例尺控件
+	var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+	map.addControl(ctrl_sca);
+    }
+    
+    //标注点数组
+    var markerArr = [{title:"The center of Beijing",content:"Add：Room 312, 16th Building, No.66 of Xixiaokou Road, Haidian District, Beijing 100192, China",point:"116.367689|40.044547",isOpen:1,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+		 ];
+    //创建marker
+    function addMarker(){
+        for(var i=0;i<markerArr.length;i++){
+            var json = markerArr[i];
+            var p0 = json.point.split("|")[0];
+            var p1 = json.point.split("|")[1];
+            var point = new BMap.Point(p0,p1);
+			var iconImg = createIcon(json.icon);
+            var marker = new BMap.Marker(point,{icon:iconImg});
+			var iw = createInfoWindow(i);
+			var label = new BMap.Label(json.title,{"offset":new BMap.Size(json.icon.lb-json.icon.x+10,-20)});
+			marker.setLabel(label);
+            map.addOverlay(marker);
+            label.setStyle({
+                        borderColor:"#808080",
+                        color:"#333",
+                        cursor:"pointer"
+            });
+			
+			(function(){
+				var index = i;
+				var _iw = createInfoWindow(i);
+				var _marker = marker;
+				_marker.addEventListener("click",function(){
+				    this.openInfoWindow(_iw);
+			    });
+			    _iw.addEventListener("open",function(){
+				    _marker.getLabel().hide();
+			    })
+			    _iw.addEventListener("close",function(){
+				    _marker.getLabel().show();
+			    })
+				label.addEventListener("click",function(){
+				    _marker.openInfoWindow(_iw);
+			    })
+				if(!!json.isOpen){
+					label.hide();
+					_marker.openInfoWindow(_iw);
+				}
+			})()
+        }
+    }
+    //创建InfoWindow
+    function createInfoWindow(i){
+        var json = markerArr[i];
+        var iw = new BMap.InfoWindow("<b class='iw_poi_title' title='" + json.title + "'>" + json.title + "</b><div class='iw_poi_content'>"+json.content+"</div>");
+        return iw;
+    }
+    //创建一个Icon
+    function createIcon(json){
+        var icon = new BMap.Icon("http://api.map.baidu.com/lbsapi/creatmap/images/us_mk_icon.png", new BMap.Size(json.w,json.h),{imageOffset: new BMap.Size(-json.l,-json.t),infoWindowOffset:new BMap.Size(json.lb+5,1),offset:new BMap.Size(json.x,json.h)})
+        return icon;
+    }
+    
+    initMap();//创建和初始化地图
+</script>
+
+
+
+<div class="footer">
+    <div class="container">
+                   
+            <ul class="dbnav">
+              <li class="db01">
+               <h3>Product</h3>
+               <div class="flei">
+                   <a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a>                     <a href="/Home/Index/chan.html">See More</a>
+               </div>
+              </li>
+            
+              <li class="db02">
+               <h3>Treatment Regimen</h3>
+               <div class="flei">
+                <a href="/Home/Index/chan.html?fid=32">Hair Removal</a><a href="/Home/Index/chan.html?fid=33">Body Contouring</a><a href="/Home/Index/chan.html?fid=34">Moisturizing Tightening</a><a href="/Home/Index/chan.html?fid=35">Cellulite</a><a href="/Home/Index/chan.html?fid=36">Skin Renewal</a><a href="/Home/Index/chan.html?fid=37">Photorejuvenation</a><a href="/Home/Index/chan.html?fid=38">Wrinkles Tightening</a><a href="/Home/Index/chan.html?fid=39">Tattoo/Pigment</a><a href="/Home/Index/chan.html?fid=40">Scar/Striae Distensae</a><a href="/Home/Index/chan.html?fid=41">Laser Hair</a><a href="/Home/Index/chan.html?fid=42">Acne</a><a href="/Home/Index/chan.html?fid=43">Relieve Pain</a>               </div>
+              </li>       
+            
+              <li class="db03">
+               <h3>Exhibition</h3>
+               <div class="flei">
+               <a href="/Home/Index/news.html?id=182">Exhibition</a>
+               </div>
+              </li>
+            
+              <li class="db04">
+               <h3>About Wingderm</h3>
+               <div class="flei">
+               <a href="/Home/Index/news?id=179">News</a><a href="/Home/Index/news?id=182">Exhibition</a><a href="/Home/Index/lianxi?id=181">Contact Us</a>               </div>
+              </li>
+            </ul>    
+            
+            <ul class="dbcontact">
+              <li class="con01">Headquarters：Room 305, Zone D,Dongsheng Science Park, Zhongguancun (Northern Territory), Haidian District, Beijing</li>
+              <li class="con01">R&D center：Room 1609, 1st Building, No. 6, Liye Road, big data intelligent industrial park, Changping District, Beijing</li>
+              <li class="con01">Production base：Room B1-3, Xinfeida Industrial Park, No.1, East Road Street, Fengshan Village, Shahe Town, Changping District, Beijing</li> 
+              <li class="con02">Phone：(8610) 62910812</li> 
+              <li class="con03"><a href="mailto:info@wingderm.com">Email：info@wingderm.com</a></li>
+            </ul>
+            
+            <div class="forig">
+              <div class="wxin"><img src="/Public/home/images/wenx.jpg"></div>
+              <div class="fenx">
+                <a href="https://www.facebook.com/Wingderm-1769429496478208/?modal=admin_todo_tour" target="_blank" title="Facebook"><img src="/Public/home/images/gz01.jpg"></a>
+                <a href="https://twitter.com/Wingderm1" target="_blank" title="Twitter"><img src="/Public/home/images/gz02.jpg"></a>
+                <a href="https://www.youtube.com/channel/UCg_kS_Lj_XXbU7j-Xy_DzaA?view_as=subscriber" title="YouTube" class="jiathis_button_weixin"><img src="/Public/home/images/gz05.jpg"></a>
+                <a href="https://www.linkedin.com/company/aesthetic-wingderm/" title="LinkedIn" target="_blank"><img src="/Public/home/images/gz04.jpg"></a>
+				<script type="text/javascript" >
+                var jiathis_config={
+                    summary:"",
+                    shortUrl:false,
+                    hideMore:false
+                }
+                </script>
+                <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+                
+
+              </div>
+            </div>
+
+    </div>
+</div>
+<!-- <div class="online-service">
+<ul>
+	<li class="go-top" style="cursor:pointer;">
+      <p style="font-size:14px;padding-top:45px;width:100%;text-align:center;color: #ccc;">返回顶部</p>
+  </li>
+</ul>
+</div> -->
+
+<div class="copy">
+ <div class="container">
+    <div class="copyimg">
+    
+    </div>
+    <div class="copytxt">
+Copyright：© Wingderm Electro-Optics Ltd.<br/>
+© 2015-2020 All Rights Reserved.
+<p><a style="color:#bdbdbd" href="http://www.ynhl.net/" target="_blank">Website by Eno interlink</a></p>
+    </div>
+ </div>
+</div>
+<script>
+    var swiper = new Swiper('.banner', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 1,
+        paginationClickable: true,
+        spaceBetween: 0,
+        loop: true,
+        autoplay: 5000,
+        speed:500,
+    });
+
+
+    var swiper = new Swiper('.wapban', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 1,
+        paginationClickable: true,
+        spaceBetween: 0,
+        loop: true,
+        autoplay: 5000,
+        speed:500,
+    });
+
+</script>
+<script src="/Public/home/js/js.js"></script>
+</body>
+</html>

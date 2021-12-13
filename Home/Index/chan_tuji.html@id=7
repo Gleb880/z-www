@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640px,user-scalable=no" />
+
+    <title>WeShape™ Pro_Wingderm Electro-Optics Ltd.</title>
+    <meta name="keywords" content="Wingderm Electro-Optics Ltd.">
+<meta name="description" content="Wingderm Electro-Optics Ltd.">
+ <link href="/favicon.ico" rel="shortcut icon" />
+<script src="/Public/home/js/jquery.min.js"></script>
+<script src="/Public/home/js/swiper.min.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="/Public/home/css/swiper.min.css">
+<link href="/Public/home/css/style.css" rel="stylesheet" type="text/css">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126687633-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126687633-1');
+</script>
+
+
+    <link rel="stylesheet" href="/Public/zty/css/weshape.css">
+    <link rel="stylesheet" type="text/css" href="/Public/zty/css/aos.css">
+
+
+<script src="/Public/home/js/nav.js" type="text/javascript" defer="defer"></script>
+    <style>
+        .footer{margin-top:0px;}
+         #cnav{ z-index:99999;} 
+    </style><!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="header">
+    <div class="container" style="position:relative;">
+      <div class="logos"><a href="/Home/Index/index.html"><img src="/Public/home/images/logo.png"/></a></div>  
+      <ul class="nav" id="navlist">
+         <li><a href="/Home/Index/index.html">Home</a></li>
+         <li class="ch01"><a href="/Home/Index/chan">Product</a></li><li class="ch01"><a href="javascript:void(0)">WingCloud</a></li><li class="ch01"><a href="/Home/Index/about">About Wingderm</a></li>      </ul>
+
+      <div class="cnen"><a href="http://www.wingderm.com.cn/">中文</a> | <a href="http://www.wingderm.com/">English</a></div>
+      <div class="herig">
+         <div class="tel"><a href="mailto:(8610) 62910812">E-mail：info@wingderm.com</a></div>
+      </div> 
+     <a href="http://www.wingderm.com.cn/" class="yyqh">中文</a>
+
+      <button class="nav-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+      </button>
+
+    </div>
+ </div>
+ 
+ 
+<div id="navbox">
+    <div class="children" style="display:none;"></div>
+    <div class="children container" style="display:none;">
+           <div class="chleft">
+           <ul class="xnav">
+             <h3><b>Product</b></h3>
+                                       <li id="c1" onmouseover="setContentTab('c',1,100)"><a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></li>             <li id="c2" onmouseover="setContentTab('c',2,100)"><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a></li>             <li id="c3" onmouseover="setContentTab('c',3,100)"><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></li>             <span><a href="/Home/Index/chan.html">See More</a></span>
+           </ul>
+    
+           <ul class="xnav">
+             <h3><b>Treatment Regimen</b></h3>
+                          <li id="c4" onmouseover="setContentTab('c',4,100)"><a href="/Home/Index/chan.html?fid=32">Hair Removal</a></li>             <li id="c5" onmouseover="setContentTab('c',5,100)"><a href="/Home/Index/chan.html?fid=33">Body Contouring</a></li>             <li id="c6" onmouseover="setContentTab('c',6,100)"><a href="/Home/Index/chan.html?fid=34">Moisturizing Tightening</a></li>             <li id="c7" onmouseover="setContentTab('c',7,100)"><a href="/Home/Index/chan.html?fid=35">Cellulite</a></li>             <li id="c8" onmouseover="setContentTab('c',8,100)"><a href="/Home/Index/chan.html?fid=36">Skin Renewal</a></li>             <span><a href="/Home/Index/fangan.html">See More</a></span>   
+           </ul>
+           </div>
+           
+           <div class="chright">
+                                                   <div class="chimg" id="con_c_1" style="display:block;"><img src="/Uploads/20181210/5c0e0aff72f44.png" ></div>                    <div class="chimg" id="con_c_2" ><img src="/Uploads/20170911/59b63cb0b14e3.jpg" ></div>                    <div class="chimg" id="con_c_3" ><img src="/Uploads/20170929/59cdaae62d887.jpg" ></div>               
+                                <div class="chimg" id="con_c_4" ><img src="/Uploads/20170714/5968774031c92.jpg" ></div>                <div class="chimg" id="con_c_5" ><img src="/Uploads/20170714/59686c3487c9d.jpg" ></div>                <div class="chimg" id="con_c_6" ><img src="/Uploads/20170714/59686c60a7691.jpg" ></div>                <div class="chimg" id="con_c_7" ><img src="/Uploads/20170714/59686caee683e.jpg" ></div>                <div class="chimg" id="con_c_8" ><img src="/Uploads/20170714/59686cfb47ab5.jpg" ></div>           </div>
+    
+    </div>
+
+</div>
+
+
+<!--手机导航-->
+<ul class="wapnav" style="display:none;">
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>Product</b></a>
+<ul class="dropdown">
+      <li><a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a></li><li><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a></li><li><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></li>           <li><a href="/Home/Index/chan.html?id=7">See More</a></li>
+</ul>
+</li>
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>Treatment Regimen</b></a>
+<ul class="dropdown">
+    <li><a href="/Home/Index/chan.html?fid=32">Hair Removal</a></li><li><a href="/Home/Index/chan.html?fid=41">Laser Hair</a></li><li><a href="/Home/Index/chan.html?fid=42">Acne</a></li><li><a href="/Home/Index/chan.html?fid=43">Relieve Pain</a></li><li><a href="/Home/Index/chan.html?fid=33">Body Contouring</a></li>        <li><a href="/Home/Index/fangan.html?id=7">See More</a></li>
+</ul>
+</li>
+
+<li class="item-has-child "><a href="javascript:void()" class="drop-arrow">WingCloud</a></li>
+
+<li class="item-has-child ">
+<a href="javascript:void()" class="drop-arrow"><b>About Wingderm</b></a>
+<ul class="dropdown">
+     <li><a href="/Home/Index/news?id=179">News</a></li><li><a href="/Home/Index/news?id=182">Exhibition</a></li><li><a href="/Home/Index/lianxi?id=181">Contact Us</a></li></ul>
+
+</li>
+
+
+</ul>
+<!--手机导航-->
+
+<div class="weshape01 wedw">
+<img src="/Public/zty/images/weshape01.jpg">   
+<div class="wemain">
+  <div class="we01txt">
+     <div class="img xcl" data-aos="fade-up" aos-easing="ease"><img src="/Public/zty/images/we01.png"></div>
+     <p class="xcl" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="100">Popularized for many years in the world,
+clinical effect guarantee</p>
+     <ul class="we01list">
+       <li class="xcl" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200"><i><img src="/Public/zty/images/we02.png"></i><span>BODY SHAPING</span></li>
+       <li class="xcl" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300"><i><img src="/Public/zty/images/we03.png"></i><span>CIRCUMFERENCE REDUCTION</span></li>
+       <li class="xcl" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="400"><i><img src="/Public/zty/images/we04.png"></i><span>CELLULITE IMPROVEMENT</span></li>
+     </ul>
+  </div>
+</div>
+</div>
+
+<!--产品导航-->
+
+
+<div class="nav-height">
+<div class="navbar-container navbar-container-m-sticky js-sticky">
+  <div class="navbar navbar-m-gray">
+
+    <div class="cpnav" id="pro">
+      <div class="container">
+          <h1><a style="color:#333333" href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a></h1>
+          <ul>
+             <li><a href="/Home/Index/chan_show.html?id=7#dw01">Parameter</a></li>
+             <!-- <li><a href="/Home/Index/chan_show.html?id=7#dw02">治疗原理</a></li> -->
+             <li><a href="/Home/Index/chan_show.html?id=7#dw02">Principle</a></li>
+             <li><a href="/Home/Index/chan_show.html?id=7#dw03">Before&After</a></li>
+             <li><a href="/Home/Index/chan_show.html?id=7#dw04">Download</a></li>
+             <li><a class="go-top" href="javascript:void(0);">Back To Top</a></li>
+          </ul>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+<!--产品导航-->
+
+
+
+<div class="weshape02 wedw">
+<img src="/Public/zty/images/weshape02.jpg">   
+<div class="wemain">
+    <div class="we02txt">
+		<p data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Intelligent detection of treatment progress</p>
+		<h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Simple Operation, Easy Treatment</h3>
+		<p data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200" >Automatically adjustment, supplying the best and comfortable experience for customers</p>
+    </div>
+</div>
+</div>
+
+<!--<div class="weshape03 wedw">
+<img src="images/weshape03.jpg">   
+<div class="wemain">
+    <div class="we03txt" >
+   <div class="img" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200"><img src="images/we05.png"></div>
+   <div data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">
+	 <p class="p01">温热、轻柔的按摩体验</p>
+	 <p class="p02">无须恢复期即做即走</p>
+	 <p class="p03">Weshape 给您提供非侵入舒适无痛治疗</p>
+   </div>
+    </div>
+</div>
+</div>-->
+
+
+<div class="weshape04">
+	<div class="we04txt">
+	<h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Four Major Technologies Combined</h3>
+	<p data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">Accelerate cell metabolism, promote collagen regeneration,<br/>stimulate fiber reconstruction, to improve skin structure and texture.</p>
+	</div>
+
+<div class="view">
+  <div class="swiper-container">
+  
+   <div class="preview">
+    <div class="swiper-container we04list">
+     <ul class="swiper-wrapper">
+     <li class="swiper-slide active-nav" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="400"><i><img src="/Public/zty/images/we06.png"></i><span>Bipolar RF</span></li><li class="swiper-slide" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="500"><i><img src="/Public/zty/images/we07.png"></i><span>Roller Massage</span></li><li class="swiper-slide" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="600"><i><img src="/Public/zty/images/we08.png"></i><span>Infrared</span></li><li class="swiper-slide" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="700"><i><img src="/Public/zty/images/we09.png"></i><span>Vacuum</span></li>
+     </ul>  
+    </div>  
+   </div>
+   
+    <ul class="we04img swiper-wrapper">
+    <li class="wedw swiper-slide"><img src="/Public/zty/images/we41.gif"><div class="wemain">
+    <div class="we04imgtxt right"><h3>Bipolar RF</h3><p>Bipolar RF can heat subcutaneous tissue<br/>as deep as 15mm and function as a long-lasting heating<br/>deep tissue (fatty tissue and dermal collagen fibers)</p></div>
+    </div></li>
+    <li class="wedw swiper-slide"><img src="/Public/zty/images/we42.gif"><div class="wemain">
+    <div class="we04imgtxt left"><h3>Roller Massage</h3><p>Roller massage speeds up<br/>blood and lymph circulation.</p></div>
+    </div></li>
+    <li class="wedw swiper-slide"><img src="/Public/zty/images/we43.gif"><div class="wemain">
+    <div class="we04imgtxt right" data-aos="fade-up"><h3>Infrared</h3><p>Mainly heated to superficial tissue,<br/>as deep as subcutaneous 3mm</p></div>
+    </div></li>
+    <li class="wedw swiper-slide"><img src="/Public/zty/images/we44.gif"><div class="wemain">
+    <div class="we04imgtxt left"><h3>Vacuum</h3><p>Assist increasing the penetration depth of the RF</p></div>
+    </div></li>
+    </ul>
+
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+
+   </div>
+   </div>
+
+
+</div>
+
+
+<div class="mjfullpage">
+
+    <div class="mjfullpage-box">
+
+        <div class="mjfullpage-items cur">
+
+<div class="weshape05 wedw ">
+<div class="wemain">
+   <div class="we05left">
+     <h3 class="jstle">Applicable parts: All body</h3> 
+     <ul class="jslist">
+		<li><i><img src="/Public/zty/images/we10.png"></i><span>Abdomen</span></li>
+		<li><i><img src="/Public/zty/images/we11.png"></i><span>The back</span></li>
+     </ul>
+     <div class="jstxt">
+		<h3>Personalized Treatment</h3>
+		<p>Select the appropriate applicator for different treatment parts<br/>Customized a personalized treatment plan</p>
+     </div>
+   </div>
+
+   <div class="we05right">
+     <ul class="renlist">
+       <li><p><img src="/Public/zty/images/ren01.png"></p><span>Front</span></li>
+       <li><p><img src="/Public/zty/images/ren02.png"></p><span>Back</span></li>
+     </ul>
+     <div class="we05ico">
+       <p><img src="/Public/zty/images/we14.png"></p>
+       <span>Size：74mm*52mm</span>
+     </div>
+   </div>
+
+</div>
+</div>
+
+		</div>
+
+        <div class="mjfullpage-items">
+
+
+
+<div class="weshape06 wedw">
+<div class="wemain">
+
+   <div class="we06left">
+     <h3 class="jstle">Applicable parts: All body</h3> 
+     <ul class="jslist">
+		<li><i><img src="/Public/zty/images/we12.png"></i><span>Arm</span></li>
+		<li><i><img src="/Public/zty/images/we13.png"></i><span>Leg</span></li>
+     </ul>
+
+
+   </div>
+
+   <div class="we06right">
+     <ul class="renlist">
+       <li><p><img src="/Public/zty/images/ren03.png"></p><span>Back</span></li>
+       <li><p><img src="/Public/zty/images/ren04.png"></p><span>Front</span></li>
+     </ul>
+     <div class="we05ico">
+       <p><img src="/Public/zty/images/we15.png"></p>
+       <span>Size：43mm*35mm</span>
+     </div>
+   </div>
+
+
+</div>
+</div>
+
+
+		</div>
+
+    </div>
+
+</div>
+
+
+<div class="weshape07 wedw">
+<img src="/Public/zty/images/weshape07.jpg">
+<div class="wemain">
+    <div class="we07txt"  data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">
+      <div class="wexian"></div>
+      <h3>Clean And Hygienic</h3>
+      <p>Applicator head replaceable design</p>
+    </div>
+</div>
+</div>
+
+
+<div class="weshape08 wedw">
+<img src="/Public/zty/images/weshape08.jpg">
+<div class="wemain">
+    <div class="video08">
+		<video autoplay muted loop="loop" class="video" id="vidoe1">
+		 <source src="http://www.wingderm.com.cn/Public/zty/images/video08.mp4" type="video/mp4">
+		</video>
+    </div>
+    <div class="we08txt" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="0">
+      <!--<div class="wexian" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200"></div>-->
+      <h3>RF+Infrared Technology</h3>
+      <p class="p01">High-power RF<span>150W、40.68MHz</span></p>
+      <p class="p02">Deep and shallow layers are heated at the same time, which is more conducive to the diffusion of heat to the subcutaneous fat layer.</p>
+    </div>
+</div>
+</div>
+
+
+<div class="weshape09 wedw">
+<img src="/Public/zty/images/weshape09.jpg">
+<div class="wemain">
+   <div class="we09left">
+     <div class="we09txt" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">
+       <h3>Intelligent Temperature Monitoring System</h3>
+       <p>Automatically recognizes the treatment endpoint,<br/>monitors temperature changes in real time,<br/>and effectively protects the skin</p>
+     </div>
+     <div class="we09img">
+       <!--<span>温度示意</span>-->
+       <div class="xtu"><img class="pimg01" src="/Public/zty/images/biao.png">
+       <div class="pimg02" data-aos="wid" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="200"></div>
+<!--<img class="s1" src="images/1s.png">
+<img class="s20" src="images/20s.png">-->
+<div class="times syaby" data-aos="leftjl" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="200"><b class="timer" id="count-number" data-from="1" data-to="20" data-speed="1000">0</b>S</div>
+       </div> 
+     </div>
+   </div>
+</div>
+
+<div class="we09pord"><img src="/Public/zty/images/we16.png"></div>
+<div class="we09x01" data-aos="hei" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="200"><img src="/Public/zty/images/weshape09x01.png"></div>
+<div class="we09x02" data-aos="hei" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="400"><img src="/Public/zty/images/weshape09x02.png"></div>
+
+<div class="we09x01s" data-aos="hei" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="200"><img src="/Public/zty/images/weshape09x01s.png"></div>
+<div class="we09x02s" data-aos="hei" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="400"><img src="/Public/zty/images/weshape09x02s.png"></div>
+
+
+</div>
+
+
+<div class="weshape10 wedw">
+<img src="/Public/zty/images/weshape10.jpg">
+<div class="wemain">
+    <div class="we10txt">
+	<h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Ultra Silent Design</h3>
+  <div data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">
+	<p class="p01">Feel the details through heart</p>
+    <p class="p02">The Ultra silent system of Weshape improve user comfort, easy to do the body shaping care.</p>
+    <p class="wz01"><img src="/Public/zty/images/wz01.png"></p>
+    <p class="wz02"><img src="/Public/zty/images/wz02.png"></p>
+    <p class="wz01"><img src="/Public/zty/images/wz03.png"></p>
+    <p class="wz02"><img src="/Public/zty/images/wz04.png"></p>
+    <p class="wz01"><img src="/Public/zty/images/wz05.png"></p>
+    <p class="wz02"><img src="/Public/zty/images/wz06.png"></p>
+    </div>
+    </div>
+</div>
+    <div class="bowen"><img src="/Public/zty/images/bowen01.png"></div>
+
+</div>
+
+
+<div class="weshape11 wedw">
+<img src="/Public/zty/images/weshape11.gif">
+  <div class="we11img"><img src="/Public/zty/images/sanquan.png"></div>
+<div class="wemain">
+  <div class="we11txt">
+     <h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Intelligent vacuum control system</h3>
+     <p data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">Real-time control system based on PID algorithm / excellent dynamic adjustment function can quickly reach the expected setting,and the customera experience is perfect. The effect is better than the hand massage form.</p>
+  </div>
+</div>
+</div>
+
+
+<div class="weshape12 wedw">
+<img src="/Public/zty/images/weshape12.jpg">
+<div class="wemain">
+  <div class="we12txt">
+    <h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Human-Machine Interaction</h3>
+    <p data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300"><img src="/Public/zty/images/anzhi.png">Use Android smart operating  system</p>
+  </div>
+</div>
+  <div class="bowen02"><img src="/Public/zty/images/bowen02.png"></div>
+
+</div>
+
+
+<div class="weshape13 wedw">
+<img src="/Public/zty/images/weshape13.jpg">
+<div class="wemain">
+  <div class="we13txt">
+     <h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Double Filtration System</h3>
+    <div data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">
+    <p><span>Double filtration system </span>of applicator and<br/>pipeline to prevent air passage blockage</p>
+    <p>Effectively filter out external excess essential oils and impurities in the air, to protect<br/>internal components effectively and stabilize the machine for a long time.</p>
+    </div>
+  </div>
+</div>
+
+<div class="we013pord"><img src="/Public/zty/images/we24.png"></div>
+  <div class="dian dian01"><img src="/Public/zty/images/dian01.png"></div>
+  <div class="dian dian02"><img src="/Public/zty/images/dian02.png"></div>
+  <div class="dian dian03"><img src="/Public/zty/images/dian03.png"></div>
+  <div class="rend rd01" data-aos="fade-up"  data-aos-easing="ease" data-aos-delay="200" >
+    <span>Internal of applicator</span>
+    <p><img src="/Public/zty/images/dxian01.png"></p>
+  </div> 
+  <div class="rend rd02" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">
+    <span>external of pipe</span>
+    <p><img src="/Public/zty/images/dxian01.png"></p>
+  </div> 
+  <div class="rend rd03" data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">
+    <span>Internal of applicator</span>
+    <p><img src="/Public/zty/images/dxian02.png"></p>
+  </div>
+</div>
+
+
+<div class="weshape14 wedw">
+<img src="/Public/zty/images/weshape14.gif">
+<div class="wemain">
+  <div class="we14txt">
+  <h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">CAN Bus Technology</h3>
+  <div data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">
+      <p class="p01">Multiple intelligence control methods</p>
+      <p class="p02">CAN bus technology applied in the automotive field and industrial Field can maintain high-speed and high-stability data transmission  Even under 40.68MHZ radio frequency interference, achieving
+multiple intelligent control modes.</p>
+  </div>
+  </div>
+  <!--<div class="we14img">
+    <img src="images/we17.png">
+  </div>-->
+</div>
+</div>
+
+
+<ul class="weshape15">
+  <li data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200"><i data-aos="flip-up" data-aos-easing="ease" data-aos-delay="400"><img src="/Public/zty/images/we18.png"></i><span >SMC solenoid valve</span><p>High speed, long life, no noise</p></li>
+  <li data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300"><i data-aos="flip-up" data-aos-easing="ease" data-aos-delay="500"><img src="/Public/zty/images/we19.png"></i><span>Japan ULVAC air pump</span><p >Mute design, low vibration</p></li>
+  <li data-aos="fade-up" data-aos-easing="ease" data-aos-delay="400"><i data-aos="flip-up" data-aos-easing="ease" data-aos-delay="600"><img src="/Public/zty/images/we20.png"></i><span>Motor</span><p>Imported from Japan</p></li>
+  <li data-aos="fade-up" data-aos-easing="ease" data-aos-delay="500"><i data-aos="flip-up" data-aos-easing="ease" data-aos-delay="700"><img src="/Public/zty/images/we21.png"></i><span >IRLEDOSRAMIRLED</span><p >High power, long life</p></li>
+</ul>
+
+<ul class="weshape16">
+
+    <div class="we16li01">
+    <h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Applicator button</h3>
+    <p data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300">During treatment could adjust the parameters depending on customers’ situation</p>
+    </div>
+
+  <li class="hui we16li02">
+  <div class="we16tu"><img data-aos="fade-right" data-aos-easing="ease" data-aos-delay="200" src="/Public/zty/images/shou01.png" class="shou01"><p><img src="/Public/zty/images/we22.png"></p></div></li> 
+  </ul>
+<ul class="weshape16">
+    <div class="we16li04">
+       <h3 data-aos="fade-up" data-aos-easing="ease" data-aos-delay="200">Light weight</h3>
+       <div data-aos="fade-up" data-aos-easing="ease" data-aos-delay="300" >
+       <p class="p01">Big applicator weight is <span class="sp01">only950g</span><br/>Small applicator weight is <span class="sp01">only350g</span></p>
+       <p class="p02">Reducing operator's hand pressure</p>
+       </div>
+    </div>
+  <li class="hui we16li03"><div class="we16tu"><img data-aos="fade-left" data-aos-easing="ease" data-aos-delay="200"  src="/Public/zty/images/shou02.png" class="shou02"><p><img src="/Public/zty/images/we23.png"></p></div></li> 
+</ul>
+
+
+<div class="footer">
+    <div class="container">
+                   
+            <ul class="dbnav">
+              <li class="db01">
+               <h3>Product</h3>
+               <div class="flei">
+                   <a href="/Home/Index/chan_tuji.html?id=5">Lasermach™ Pro</a><a href="/Home/Index/chan_tuji.html?id=6">MesoSkin™</a><a href="/Home/Index/chan_tuji.html?id=7">WeShape™ Pro</a>                     <a href="/Home/Index/chan.html">See More</a>
+               </div>
+              </li>
+            
+              <li class="db02">
+               <h3>Treatment Regimen</h3>
+               <div class="flei">
+                <a href="/Home/Index/chan.html?fid=32">Hair Removal</a><a href="/Home/Index/chan.html?fid=33">Body Contouring</a><a href="/Home/Index/chan.html?fid=34">Moisturizing Tightening</a><a href="/Home/Index/chan.html?fid=35">Cellulite</a><a href="/Home/Index/chan.html?fid=36">Skin Renewal</a><a href="/Home/Index/chan.html?fid=37">Photorejuvenation</a><a href="/Home/Index/chan.html?fid=38">Wrinkles Tightening</a><a href="/Home/Index/chan.html?fid=39">Tattoo/Pigment</a><a href="/Home/Index/chan.html?fid=40">Scar/Striae Distensae</a><a href="/Home/Index/chan.html?fid=41">Laser Hair</a><a href="/Home/Index/chan.html?fid=42">Acne</a><a href="/Home/Index/chan.html?fid=43">Relieve Pain</a>               </div>
+              </li>       
+            
+              <li class="db03">
+               <h3>Exhibition</h3>
+               <div class="flei">
+               <a href="/Home/Index/news.html?id=182">Exhibition</a>
+               </div>
+              </li>
+            
+              <li class="db04">
+               <h3>About Wingderm</h3>
+               <div class="flei">
+               <a href="/Home/Index/news?id=179">News</a><a href="/Home/Index/news?id=182">Exhibition</a><a href="/Home/Index/lianxi?id=181">Contact Us</a>               </div>
+              </li>
+            </ul>    
+            
+            <ul class="dbcontact">
+              <li class="con01">Headquarters：Room 305, Zone D,Dongsheng Science Park, Zhongguancun (Northern Territory), Haidian District, Beijing</li>
+              <li class="con01">R&D center：Room 1609, 1st Building, No. 6, Liye Road, big data intelligent industrial park, Changping District, Beijing</li>
+              <li class="con01">Production base：Room B1-3, Xinfeida Industrial Park, No.1, East Road Street, Fengshan Village, Shahe Town, Changping District, Beijing</li> 
+              <li class="con02">Phone：(8610) 62910812</li> 
+              <li class="con03"><a href="mailto:info@wingderm.com">Email：info@wingderm.com</a></li>
+            </ul>
+            
+            <div class="forig">
+              <div class="wxin"><img src="/Public/home/images/wenx.jpg"></div>
+              <div class="fenx">
+                <a href="https://www.facebook.com/Wingderm-1769429496478208/?modal=admin_todo_tour" target="_blank" title="Facebook"><img src="/Public/home/images/gz01.jpg"></a>
+                <a href="https://twitter.com/Wingderm1" target="_blank" title="Twitter"><img src="/Public/home/images/gz02.jpg"></a>
+                <a href="https://www.youtube.com/channel/UCg_kS_Lj_XXbU7j-Xy_DzaA?view_as=subscriber" title="YouTube" class="jiathis_button_weixin"><img src="/Public/home/images/gz05.jpg"></a>
+                <a href="https://www.linkedin.com/company/aesthetic-wingderm/" title="LinkedIn" target="_blank"><img src="/Public/home/images/gz04.jpg"></a>
+				<script type="text/javascript" >
+                var jiathis_config={
+                    summary:"",
+                    shortUrl:false,
+                    hideMore:false
+                }
+                </script>
+                <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+                
+
+              </div>
+            </div>
+
+    </div>
+</div>
+<!-- <div class="online-service">
+<ul>
+	<li class="go-top" style="cursor:pointer;">
+      <p style="font-size:14px;padding-top:45px;width:100%;text-align:center;color: #ccc;">返回顶部</p>
+  </li>
+</ul>
+</div> -->
+
+<div class="copy">
+ <div class="container">
+    <div class="copyimg">
+    
+    </div>
+    <div class="copytxt">
+Copyright：© Wingderm Electro-Optics Ltd.<br/>
+© 2015-2020 All Rights Reserved.
+<p><a style="color:#bdbdbd" href="http://www.ynhl.net/" target="_blank">Website by Eno interlink</a></p>
+    </div>
+ </div>
+</div>
+<script>
+    var swiper = new Swiper('.banner', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 1,
+        paginationClickable: true,
+        spaceBetween: 0,
+        loop: true,
+        autoplay: 5000,
+        speed:500,
+    });
+
+
+    var swiper = new Swiper('.wapban', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        slidesPerView: 1,
+        paginationClickable: true,
+        spaceBetween: 0,
+        loop: true,
+        autoplay: 5000,
+        speed:500,
+    });
+
+</script>
+<script src="/Public/home/js/js.js"></script>
+
+</body>
+<script type="text/javascript" src="/Public/zty/js/base.min.js"></script>
+<script type="text/javascript" src="/Public/zty/js/mifile.js"></script>
+
+
+<script type="text/javascript" src="/Public/zty/js/dong.js"></script>
+
+  <script src="/Public/zty/js/ao.js"></script>
+
+  <script>
+      AOS.init({
+        easing: 'ease-in-out-sine',
+        once:true,
+      });
+      var isScroll = {
+          init: function (_el) {
+              this.start(_el);
+              $(window).on('scroll', function () {
+                  isScroll.start(_el)
+              });
+          },
+          start: function (_el) {
+              var self = this;
+               $('.xcl').addClass('aos-animate');
+              $(_el).each(function () {
+                  var _self = $(this);
+                  var isScrollTop = $(window).scrollTop();
+                  var isWindowHeiget = $(window).height() * 0.9;
+                  var _class = 'aos-animate';
+                  if (isScrollTop + isWindowHeiget > $(this).offset().top) {
+                      _self.addClass(_class);
+                  }
+              });
+          }
+      }
+      isScroll.init('.aos-init');
+  </script>
+
+<script>
+var viewSwiper = new Swiper('.view>.swiper-container', {
+  onSlideChangeStart: function() {
+        updateNavPosition()
+  }
+})
+
+$('.view .swiper-button-prev').on('click', function(e) {
+  e.preventDefault()
+  if (viewSwiper.activeIndex == 0) {
+    viewSwiper.slideTo(viewSwiper.slides.length - 1,1500);
+    return
+  }
+  viewSwiper.slidePrev()
+})
+$('.view .swiper-button-next').on('click', function(e) {
+  e.preventDefault()
+  if (viewSwiper.activeIndex == viewSwiper.slides.length - 1) {
+    viewSwiper.slideTo(0, 1500);
+    return
+  }
+  viewSwiper.slideNext()
+})
+
+var previewSwiper = new Swiper('.preview>.swiper-container', {
+  //visibilityFullFit: true,
+  slidesPerView: 'auto',
+  allowTouchMove: false,
+  onTap: function() {
+        viewSwiper.slideTo(previewSwiper.clickedIndex)
+  }
+})
+
+function updateNavPosition() {
+    $('.preview .active-nav').removeClass('active-nav')
+    var activeNav = $('.preview .swiper-slide').eq(viewSwiper.activeIndex).addClass('active-nav')
+    if (!activeNav.hasClass('swiper-slide-visible')) {
+      if (activeNav.index() > previewSwiper.activeIndex) {
+        var thumbsPerNav = Math.floor(previewSwiper.width / activeNav.width()) - 1
+        previewSwiper.slideTo(activeNav.index() - thumbsPerNav)
+      } else {
+        previewSwiper.slideTo(activeNav.index())
+      }
+    }
+  }
+</script>
+
+
+<script type="text/javascript">
+var wapkuan=document.body.clientWidth;
+var gaos=$(".nav-height").offset().top;
+
+if(wapkuan<768){
+  setInterval(function(){
+    var rc=$(document).scrollTop();
+    if(rc > gaos){
+            $(".go-top").show();
+    }else{
+            $(".go-top").hide();
+    }
+  },10)
+}else{
+  setInterval(function(){
+    var rc=$(document).scrollTop();
+    if(rc > gaos){
+            $(".go-top").show();
+    }else{
+            $(".go-top").hide();
+    } 
+  },10)
+  }
+</script>
+</html>
